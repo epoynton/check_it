@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # checks email or list of emails against HIBP
-# thanks to https://github.com/m0nkeyplay for
+# thanks to https://github.com/m0nkeyplay for the influence & groundwork for this.
 
 import requests
 import json
