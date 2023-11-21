@@ -39,7 +39,7 @@ headers['content-type']= 'application/json'
 headers['api-version']= '3'
 headers['User-Agent']='check_it'
 #   Place that API key here
-headers['hibp-api-key']='a921ff8eb0124346a5ceff4b87aa596a'
+headers['hibp-api-key']=''
 
 # Check Breach
 def check_breach(email):
